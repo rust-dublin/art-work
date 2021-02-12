@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="RustDublinLogoMast.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -34,17 +34,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="427.56356"
-     inkscape:cy="170.6636"
+     inkscape:zoom="0.9901807"
+     inkscape:cx="484.15588"
+     inkscape:cy="177.91109"
      inkscape:document-units="px"
-     inkscape:current-layer="g2604"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="3747"
-     inkscape:window-height="2126"
-     inkscape:window-x="82"
-     inkscape:window-y="-11"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:object-nodes="false"
      inkscape:snap-others="false"
@@ -75,7 +75,8 @@
      style="display:inline"
      transform="translate(-2.7715782,-16.667788)">
     <g
-       id="g2556">
+       id="g2556"
+       transform="translate(-1.0583333)">
       <g
          style="opacity:1;fill:#2b1100"
          id="g1965">
@@ -93,107 +94,141 @@
          style="fill:#552200;stroke-width:0.851985"
          id="path1723" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Text"
+     style="display:none">
     <g
-       id="g2604">
+       aria-label="R"
+       id="text1812"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
+       transform="translate(-2.7715781,-16.667788)">
+      <path
+         d="m 115.06455,46.598546 q 2.88992,0 4.36797,-1.345687 1.50011,-1.345688 1.50011,-3.948821 0,-1.632473 -1.03684,-2.382528 -1.01479,-0.772116 -3.22083,-0.772116 h -3.50761 l -1.6766,8.449152 z m -4.69888,5.868079 -2.44871,12.464154 h -8.493271 l 6.419591,-32.93625 h 12.55239 q 5.42688,0 8.22855,2.029561 2.80168,2.029562 2.80168,5.978382 0,3.992941 -2.20605,6.574014 -2.20604,2.581072 -5.97838,2.9561 1.72072,0.352967 2.86786,1.764835 1.14714,1.389809 2.0075,4.279727 l 2.80168,9.353631 h -8.44915 l -2.47077,-8.184427 q -0.75006,-2.44871 -1.83102,-3.353188 -1.0589,-0.926539 -3.08846,-0.926539 z"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+         id="path1936" />
+    </g>
+    <g
+       aria-label="U"
+       id="text1820"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
+       transform="translate(-2.7715781,-16.667788)">
+      <path
+         d="m 133.56819,32.529685 h 8.49327 l -3.83852,19.722041 q -0.2206,1.058902 -0.33091,1.875138 -0.0882,0.816237 -0.0882,1.433929 0,2.161924 1.14715,3.242886 1.1692,1.058902 3.46349,1.058902 3.08846,0 4.74299,-1.720715 1.65454,-1.742775 2.44871,-5.868079 l 3.83852,-19.744102 h 8.49327 l -3.83851,19.744102 q -1.43393,7.279948 -5.44894,10.566954 -3.99294,3.264947 -11.44937,3.264947 -5.84602,0 -8.89036,-2.492831 -3.04434,-2.514891 -3.04434,-7.279948 0,-0.794176 0.1103,-1.764836 0.1103,-0.99272 0.35297,-2.294286 z"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+         id="path1939" />
+    </g>
+    <g
+       aria-label="S"
+       id="text1826"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
+       transform="translate(-2.7715781,-16.667788)">
+      <path
+         d="m 187.29091,32.694166 -1.36774,6.971102 q -2.49283,-1.235385 -4.91948,-1.831017 -2.42665,-0.617693 -4.743,-0.617693 -3.1767,0 -4.9636,0.99272 -1.76484,0.992721 -1.76484,2.757556 0,1.125083 0.77212,1.764836 0.79417,0.617693 3.24288,1.213325 l 3.48556,0.860357 q 4.36796,1.103023 6.39753,3.198765 2.05162,2.073683 2.05162,5.38275 0,5.360689 -4.08119,8.603575 -4.05912,3.242886 -10.91992,3.242886 -3.19876,0 -6.37547,-0.595633 -3.15464,-0.595632 -6.17692,-1.764835 l 1.34568,-7.169646 q 2.93404,1.698654 5.6916,2.536951 2.77962,0.838297 5.47099,0.838297 2.91198,0 4.72094,-1.191264 1.83101,-1.191264 1.83101,-3.044342 0,-1.213324 -0.81623,-1.875138 -0.81624,-0.683874 -3.57379,-1.389808 l -3.4635,-0.860357 q -3.83851,-0.9486 -5.71365,-3.000221 -1.87514,-2.051622 -1.87514,-5.316568 0,-5.140085 3.92676,-8.228548 3.94882,-3.110523 10.61108,-3.110523 2.66931,0 5.47099,0.419149 2.82373,0.397088 5.73571,1.213324 z"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+         id="path1942" />
+    </g>
+    <g
+       aria-label="T"
+       id="text1832"
+       style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
+       transform="translate(-2.7715781,-16.667788)">
+      <path
+         d="m 188.54168,31.994529 h 30.35518 l -1.25745,6.419591 h -10.94198 l -5.16215,26.516659 h -8.49327 l 5.16215,-26.516659 h -10.94199 z"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+         id="path1945" />
+    </g>
+    <g
+       id="g2580"
+       style="display:inline"
+       transform="translate(-2.7715781,-16.667788)">
       <g
-         id="g2566">
-        <g
-           aria-label="R"
-           id="text1812"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122">
-          <path
-             d="m 115.06455,46.598546 q 2.88992,0 4.36797,-1.345687 1.50011,-1.345688 1.50011,-3.948821 0,-1.632473 -1.03684,-2.382528 -1.01479,-0.772116 -3.22083,-0.772116 h -3.50761 l -1.6766,8.449152 z m -4.69888,5.868079 -2.44871,12.464154 h -8.493271 l 6.419591,-32.93625 h 12.55239 q 5.42688,0 8.22855,2.029561 2.80168,2.029562 2.80168,5.978382 0,3.992941 -2.20605,6.574014 -2.20604,2.581072 -5.97838,2.9561 1.72072,0.352967 2.86786,1.764835 1.14714,1.389809 2.0075,4.279727 l 2.80168,9.353631 h -8.44915 l -2.47077,-8.184427 q -0.75006,-2.44871 -1.83102,-3.353188 -1.0589,-0.926539 -3.08846,-0.926539 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1936" />
-        </g>
-        <g
-           aria-label="U"
-           id="text1820"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122">
-          <path
-             d="m 133.56819,32.529685 h 8.49327 l -3.83852,19.722041 q -0.2206,1.058902 -0.33091,1.875138 -0.0882,0.816237 -0.0882,1.433929 0,2.161924 1.14715,3.242886 1.1692,1.058902 3.46349,1.058902 3.08846,0 4.74299,-1.720715 1.65454,-1.742775 2.44871,-5.868079 l 3.83852,-19.744102 h 8.49327 l -3.83851,19.744102 q -1.43393,7.279948 -5.44894,10.566954 -3.99294,3.264947 -11.44937,3.264947 -5.84602,0 -8.89036,-2.492831 -3.04434,-2.514891 -3.04434,-7.279948 0,-0.794176 0.1103,-1.764836 0.1103,-0.99272 0.35297,-2.294286 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1939" />
-        </g>
-        <g
-           aria-label="S"
-           id="text1826"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122">
-          <path
-             d="m 187.29091,32.694166 -1.36774,6.971102 q -2.49283,-1.235385 -4.91948,-1.831017 -2.42665,-0.617693 -4.743,-0.617693 -3.1767,0 -4.9636,0.99272 -1.76484,0.992721 -1.76484,2.757556 0,1.125083 0.77212,1.764836 0.79417,0.617693 3.24288,1.213325 l 3.48556,0.860357 q 4.36796,1.103023 6.39753,3.198765 2.05162,2.073683 2.05162,5.38275 0,5.360689 -4.08119,8.603575 -4.05912,3.242886 -10.91992,3.242886 -3.19876,0 -6.37547,-0.595633 -3.15464,-0.595632 -6.17692,-1.764835 l 1.34568,-7.169646 q 2.93404,1.698654 5.6916,2.536951 2.77962,0.838297 5.47099,0.838297 2.91198,0 4.72094,-1.191264 1.83101,-1.191264 1.83101,-3.044342 0,-1.213324 -0.81623,-1.875138 -0.81624,-0.683874 -3.57379,-1.389808 l -3.4635,-0.860357 q -3.83851,-0.9486 -5.71365,-3.000221 -1.87514,-2.051622 -1.87514,-5.316568 0,-5.140085 3.92676,-8.228548 3.94882,-3.110523 10.61108,-3.110523 2.66931,0 5.47099,0.419149 2.82373,0.397088 5.73571,1.213324 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1942" />
-        </g>
-        <g
-           aria-label="T"
-           id="text1832"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122">
-          <path
-             d="m 188.54168,31.994529 h 30.35518 l -1.25745,6.419591 h -10.94198 l -5.16215,26.516659 h -8.49327 l 5.16215,-26.516659 h -10.94199 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1945" />
-        </g>
+         aria-label="D"
+         id="text1838"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122">
+        <path
+           d="m 106.03648,75.210773 -3.94882,20.097069 h 3.04434 q 5.93426,0 9.39775,-3.331128 3.46349,-3.331128 3.46349,-9.000663 0,-3.838518 -2.27222,-5.801898 -2.25017,-1.96338 -6.70638,-1.96338 z m -7.279946,-6.41959 h 8.934486 q 6.39753,0 9.59629,0.772116 3.19877,0.750055 5.31657,2.536951 2.13986,1.786896 3.22082,4.345908 1.08097,2.536952 1.08097,5.757778 0,4.478271 -1.85308,8.449151 -1.83102,3.94882 -5.16215,6.640195 -2.91198,2.404589 -6.77255,3.419368 -3.83852,1.01478 -11.8244,1.01478 h -8.956547 z"
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+           id="path1960" />
       </g>
       <g
-         id="g2580">
-        <g
-           aria-label="D"
-           id="text1838"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122">
-          <path
-             d="m 106.03648,75.210773 -3.94882,20.097069 h 3.04434 q 5.93426,0 9.39775,-3.331128 3.46349,-3.331128 3.46349,-9.000663 0,-3.838518 -2.27222,-5.801898 -2.25017,-1.96338 -6.70638,-1.96338 z m -7.279946,-6.41959 h 8.934486 q 6.39753,0 9.59629,0.772116 3.19877,0.750055 5.31657,2.536951 2.13986,1.786896 3.22082,4.345908 1.08097,2.536952 1.08097,5.757778 0,4.478271 -1.85308,8.449151 -1.83102,3.94882 -5.16215,6.640195 -2.91198,2.404589 -6.77255,3.419368 -3.83852,1.01478 -11.8244,1.01478 h -8.956547 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1960" />
-        </g>
-        <g
-           aria-label="U"
-           id="text1844"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122">
-          <path
-             d="m 131.14497,69.059074 h 8.49327 l -3.83852,19.722041 q -0.2206,1.058901 -0.3309,1.875138 -0.0882,0.816236 -0.0882,1.433929 0,2.161924 1.14715,3.242886 1.1692,1.058901 3.46349,1.058901 3.08846,0 4.743,-1.720715 1.65453,-1.742775 2.4487,-5.868079 l 3.83852,-19.744101 h 8.49328 l -3.83852,19.744101 q -1.43393,7.279948 -5.44893,10.566955 -3.99294,3.26495 -11.44938,3.26495 -5.84601,0 -8.89036,-2.49283 -3.04434,-2.514896 -3.04434,-7.279952 0,-0.794177 0.1103,-1.764836 0.11031,-0.99272 0.35297,-2.294287 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1957" />
-        </g>
-        <g
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
-           id="text1850"
-           aria-label="B">
-          <path
-             id="path903"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             d="m 187.21221,76.313796 q 0,3.000221 -1.65453,4.963601 -1.63247,1.941319 -5.00772,2.934039 l -0.0441,0.176484 q 2.66931,0.772116 4.03706,2.228105 1.38981,1.45599 1.38981,4.103244 0,5.184205 -4.25767,8.096184 -4.23561,2.911977 -12.00088,2.911977 h -14.22899 l 7.58879,-32.848005 h 11.97882 q 5.93427,0 9.06685,1.96338 3.13258,1.941319 3.13258,5.470991 z m -8.95654,1.345687 q 0,-1.455989 -1.14714,-2.095742 -1.14715,-0.661814 -3.17671,-0.661814 h -3.81645 l -1.61042,6.949041 h 3.86058 q 2.77962,0 4.32385,-1.058901 1.56629,-1.080962 1.56629,-3.132584 z m -0.9486,13.28039 q 0,-1.808957 -1.36775,-2.603133 -1.36774,-0.816236 -4.30178,-0.816236 h -4.43415 l -1.8972,8.184426 h 4.27972 q 3.70616,0 5.71366,-1.213325 2.0075,-1.213324 2.0075,-3.551732 z" />
-        </g>
-        <g
-           aria-label="L"
-           id="text1856"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
-           transform="translate(0,-0.13363476)">
-          <path
-             d="m 190.68496,68.791183 h 8.49327 l -5.16214,26.516659 h 14.86874 l -1.21332,6.419588 h -23.40614 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1948" />
-        </g>
-        <g
-           aria-label="I"
-           id="text1862"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
-           transform="translate(0,-0.13363476)">
-          <path
-             d="m 215.39976,68.791183 h 8.49327 l -6.41959,32.936247 h -8.49327 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1951" />
-        </g>
-        <g
-           aria-label="N"
-           id="text1868"
-           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
-           transform="translate(0,-0.13363476)">
-          <path
-             d="m 225.29357,68.791183 h 9.486 l 7.54467,22.810503 4.43415,-22.810503 h 8.03 l -6.41959,32.936247 h -9.48599 l -7.54467,-22.810501 -4.41209,22.810501 h -8.05207 z"
-             style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
-             id="path1954" />
-        </g>
+         aria-label="U"
+         id="text1844"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122">
+        <path
+           d="m 131.14497,69.059074 h 8.49327 l -3.83852,19.722041 q -0.2206,1.058901 -0.3309,1.875138 -0.0882,0.816236 -0.0882,1.433929 0,2.161924 1.14715,3.242886 1.1692,1.058901 3.46349,1.058901 3.08846,0 4.743,-1.720715 1.65453,-1.742775 2.4487,-5.868079 l 3.83852,-19.744101 h 8.49328 l -3.83852,19.744101 q -1.43393,7.279948 -5.44893,10.566955 -3.99294,3.26495 -11.44938,3.26495 -5.84601,0 -8.89036,-2.49283 -3.04434,-2.514896 -3.04434,-7.279952 0,-0.794177 0.1103,-1.764836 0.11031,-0.99272 0.35297,-2.294287 z"
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+           id="path1957" />
+      </g>
+      <g
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
+         id="text1850"
+         aria-label="B">
+        <path
+           id="path903"
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+           d="m 187.21221,76.313796 q 0,3.000221 -1.65453,4.963601 -1.63247,1.941319 -5.00772,2.934039 l -0.0441,0.176484 q 2.66931,0.772116 4.03706,2.228105 1.38981,1.45599 1.38981,4.103244 0,5.184205 -4.25767,8.096184 -4.23561,2.911977 -12.00088,2.911977 h -14.22899 l 7.58879,-32.848005 h 11.97882 q 5.93427,0 9.06685,1.96338 3.13258,1.941319 3.13258,5.470991 z m -8.95654,1.345687 q 0,-1.455989 -1.14714,-2.095742 -1.14715,-0.661814 -3.17671,-0.661814 h -3.81645 l -1.61042,6.949041 h 3.86058 q 2.77962,0 4.32385,-1.058901 1.56629,-1.080962 1.56629,-3.132584 z m -0.9486,13.28039 q 0,-1.808957 -1.36775,-2.603133 -1.36774,-0.816236 -4.30178,-0.816236 h -4.43415 l -1.8972,8.184426 h 4.27972 q 3.70616,0 5.71366,-1.213325 2.0075,-1.213324 2.0075,-3.551732 z" />
+      </g>
+      <g
+         aria-label="L"
+         id="text1856"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
+         transform="translate(0,-0.13363476)">
+        <path
+           d="m 190.68496,68.791183 h 8.49327 l -5.16214,26.516659 h 14.86874 l -1.21332,6.419588 h -23.40614 z"
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+           id="path1948" />
+      </g>
+      <g
+         aria-label="I"
+         id="text1862"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
+         transform="translate(0,-0.13363476)">
+        <path
+           d="m 215.39976,68.791183 h 8.49327 l -6.41959,32.936247 h -8.49327 z"
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+           id="path1951" />
+      </g>
+      <g
+         aria-label="N"
+         id="text1868"
+         style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;line-height:0.8;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:-4.28644px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:0.847122"
+         transform="translate(0,-0.13363476)">
+        <path
+           d="m 225.29357,68.791183 h 9.486 l 7.54467,22.810503 4.43415,-22.810503 h 8.03 l -6.41959,32.936247 h -9.48599 l -7.54467,-22.810501 -4.41209,22.810501 h -8.05207 z"
+           style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.1798px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Bold Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:0.847122"
+           id="path1954" />
       </g>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text 1"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#552200;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="94.15432"
+       y="85.251816"
+       id="text870"><tspan
+         sodipodi:role="line"
+         x="94.15432"
+         y="85.251816"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.1556px;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#552200;fill-opacity:1;stroke-width:0.264583;"
+         id="tspan872">Dublin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#552200;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="94.15432"
+       y="47.680973"
+       id="text970"><tspan
+         sodipodi:role="line"
+         x="94.15432"
+         y="47.680973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.1556px;font-family:'Alfa Slab One';-inkscape-font-specification:'Alfa Slab One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#552200;fill-opacity:1;stroke-width:0.264583;"
+         id="tspan968">Rust</tspan></text>
   </g>
 </svg>
