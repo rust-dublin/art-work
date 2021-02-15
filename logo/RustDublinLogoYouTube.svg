@@ -14,11 +14,17 @@
    id="svg8"
    sodipodi:docname="RustDublinLogoYouTube.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   inkscape:export-filename="/home/bjg/Desktop/Rust Dublin/github/art-work/renders/RustDublinLogoYouTube.png"
+   inkscape:export-filename="/home/bjg/Rust Dublin/github/art-work/renders/RustDublinLogoYouTube_2020-07.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <rect
+       x="177.70979"
+       y="192.99236"
+       width="46.170416"
+       height="24.313408"
+       id="rect1053" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect1743"
@@ -72,10 +78,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.84798057"
-     inkscape:cx="980.45699"
+     inkscape:cx="907.34211"
      inkscape:cy="544.08914"
      inkscape:document-units="px"
-     inkscape:current-layer="g1822"
+     inkscape:current-layer="layer9"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="2560"
@@ -129,6 +135,13 @@
        width="508"
        id="rect2140"
        style="opacity:1;fill:#e3dbdb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.509061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:6.35001;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1081"
+       width="508"
+       height="285.75"
+       x="2.7715783"
+       y="16.667788" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -453,25 +466,34 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:63.4542px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58636"
+       style="font-style:normal;font-weight:normal;font-size:45.1556px;line-height:1;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.58636"
        x="16.536837"
-       y="197.01691"
+       y="170.72784"
        id="text1776"><tspan
          sodipodi:role="line"
-         id="tspan1774"
          x="16.536837"
-         y="197.01691"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.4542px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.58636">Title</tspan></text>
+         y="170.72784"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.1556px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.58636"
+         id="tspan1073">A thing</tspan><tspan
+         sodipodi:role="line"
+         x="16.536837"
+         y="217.01729"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.1556px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.58636"
+         id="tspan1079">with Rust</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.6456px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.816142"
-       x="16.536837"
-       y="244.60944"
+       x="19.182673"
+       y="251.70659"
        id="text1780"><tspan
          sodipodi:role="line"
          id="tspan1778"
-         x="16.536837"
-         y="244.60944"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.816142">Author, 10 Month Year</tspan></text>
+         x="19.182673"
+         y="251.70659"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.816142">A speaker, month and year</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1051"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333331px;white-space:pre;shape-inside:url(#rect1053);" />
   </g>
 </svg>
